@@ -1,2 +1,2 @@
 Testing
-[test image](./Rplot_ethnicity_concept_id.png)
+[test image](./RPlot_ethnicity_concept_id.png)
